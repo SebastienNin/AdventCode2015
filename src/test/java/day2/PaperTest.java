@@ -1,5 +1,6 @@
 package day2;
 
+import adventofcode.day2.Paper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

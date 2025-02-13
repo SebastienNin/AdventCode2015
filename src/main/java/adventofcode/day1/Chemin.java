@@ -1,4 +1,4 @@
-package day1;
+package adventofcode.day1;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,5 +1,6 @@
 package day5;
 
+import adventofcode.day5.ExerciceString;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package day5;
+package adventofcode.day5;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

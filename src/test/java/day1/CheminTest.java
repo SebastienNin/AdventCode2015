@@ -1,5 +1,6 @@
 package day1;
 
+import adventofcode.day1.Chemin;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

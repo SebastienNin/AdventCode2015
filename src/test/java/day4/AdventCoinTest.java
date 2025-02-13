@@ -1,5 +1,6 @@
 package day4;
 
+import adventofcode.day4.AdventCoin;
 import org.junit.jupiter.api.Test;
 
 import java.security.NoSuchAlgorithmException;
@@ -12,6 +13,7 @@ public class AdventCoinTest {
     AdventCoin adventCoin2 = new AdventCoin("pqrstuv");
 
     public AdventCoinTest() throws NoSuchAlgorithmException {
+        // Empty because it's ok
     }
 
     @Test

@@ -1,5 +1,6 @@
 package day3;
 
+import adventofcode.day3.Path;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
