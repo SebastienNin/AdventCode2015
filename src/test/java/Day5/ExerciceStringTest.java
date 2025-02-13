@@ -14,7 +14,7 @@ public class ExerciceStringTest {
     @Test
     public void getNiceString() {
 
-        //assertTrue(string6.isNiceString());
+        assertTrue(string6.isNiceString());
         assertTrue(string7.isNiceString());
         assertFalse(string8.isNiceString());
         assertFalse(string9.isNiceString());
