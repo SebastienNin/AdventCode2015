@@ -1,9 +1,8 @@
-package Day3;
+package day3;
 
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 

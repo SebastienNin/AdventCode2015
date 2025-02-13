@@ -1,10 +1,9 @@
-package Day2;
+package day2;
 
 import lombok.Getter;
 import lombok.Setter;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 
 public class Paper {

@@ -1,6 +1,5 @@
-package Day4;
+package day4;
 
-import Day3.Path;
 import org.junit.jupiter.api.Test;
 
 import java.security.NoSuchAlgorithmException;

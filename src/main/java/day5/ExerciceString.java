@@ -1,9 +1,8 @@
-package Day5;
+package day5;
 
 import lombok.Getter;
 import lombok.Setter;
 
-import javax.print.DocFlavor;
 import java.util.regex.Pattern;
 
 public class ExerciceString {
