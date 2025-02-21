@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
 
         List<Paper> list = new ArrayList<>();
-        String fileName = "src/main/java/Day2/ribbon.txt";
+        String fileName = "src/main/java/adventofcode/day2/ribbon.txt";
 
         Integer finalAnswer1 = 0;
         Integer finalAnswer2 = 0;
